@@ -1,4 +1,4 @@
-# <Comparison of global minimum ratios of QUBO and Ising models>
+# Comparison of global minimum ratios of QUBO and Ising models
 
 ## Solving linear system
 ```
