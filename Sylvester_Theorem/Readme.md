@@ -1,6 +1,7 @@
 # <Sylvester_Theorem Folder>
 
-## This folder contains sage & python code for implementing QUBO formulations for system of linear equations using Sylvester's law of inertia.
+## Summary
+- This folder contains sage & python code for implementing QUBO formulations for system of linear equations using Sylvester's law of inertia.
 - Joint work with Sun Woo Park
 - The same code can be found in the following link: https://github.com/spark483/Quantum_Computing_sub
 
